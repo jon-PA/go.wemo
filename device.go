@@ -14,7 +14,7 @@
 package wemo
 
 import (
-	"code.google.com/p/go.net/context"
+	"context"
 	"encoding/xml"
 	"errors"
 	"fmt"
